@@ -1,7 +1,7 @@
 ---
 title: Sean Kearney is the beasht unleasht
 subtitle: He's on a mad one
-image: img/mad-one.png
+image: img/capture.png
 blurb:
   heading: Will things ever be the same again?
   text: "Go the centra and get me uh five cans of karpacki and a box of ultra slim
