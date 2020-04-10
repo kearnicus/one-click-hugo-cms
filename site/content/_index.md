@@ -7,12 +7,19 @@ blurb:
   text: "Go the centra and get me uh five cans of karpacki and a box of ultra slim
     filters and mibbwe uhjm "
 intro:
-  heading: What we offer
+  heading: What's going to be happen?
   text: |-
     * Freedom from apathy. 
     * Metempsychosis
     * Friendly radical Republican values
-products: []
+
+
+    - Be Careful, NothIng Is As It Seems
+products:
+  - image: img/danger.png
+    text: help
+  - image: img/10405416_1121511727859664_5145399006738089171_n.jpg
+    text: "We are all in the twilight now. "
 values:
   heading: Our values
   text: Goliath is an amazing part of human culture but it has a dark side too –
